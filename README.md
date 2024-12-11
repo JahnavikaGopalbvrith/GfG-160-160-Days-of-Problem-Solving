@@ -73,13 +73,8 @@ Each folder corresponds to a specific day's challenge and contains:
 
 | **Problem Name**       | **Day** | **Level**   | **C++ Code**                                     | **Java Code**                                     |
 |-------------------------|---------|------------|----------------------------------------------------|-----------------------------------------------------|
-| Second Largest         | Day 01   | Easy       | [View C++](Day-01/Second%20Largest.cpp)         | [View Java](Day-01/SecondLargest.java)           |
-| Reverse an Array       | Day 02   | Easy       | [View C++](Day-02/Reverse%20Array.cpp)         | [View Java](Day-02/ReverseArray.java)           |
-| Binary Search Tree      | Day 03   | Medium     | [View C++](Day-03/Binary%20SearchTree.cpp)       | [View Java](Day-03/BinarySearchTree.java)        |
-| Dynamic Programming - 01 | Day 04   | Medium     | [View C++](Day-04/DynamicProgramming.cpp)       | [View Java](Day-04/DynamicProgramming.java)       |
-| Greedy Knapsack        | Day 05   | Hard       | [View C++](Day-05/GreedyKnapsack.cpp)          | [View Java](Day-05/GreedyKnapsack.java)         |
+| Second Largest         | Day 01   | Easy       | [View C++](Day-01/Second_Largest.cpp)         | [View Java](Day-01/SecondLargest.java)           |
 
----
 
 ## 🤝 **Contributing**
 
