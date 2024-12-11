@@ -52,23 +52,21 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 
 ## 🌐 **Useful Links**
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) – Explore a vast collection of problems, tutorials, and resources.
+- [GfG 160-160 Days of Problem Solving](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters) – Explore a vast collection of problems, tutorials, and resources.
 - [Repository Link](https://github.com/JahnavikaGopalBvrith/GfG-160---160-Days-of-Problem-Solving) – Clone, contribute, and explore solutions.
 
 ---
 
 ## 📁 **Repository Structure**
 
-```
-- [Day-01: Second Largest.cpp](Day-01/Second%20Largest.cpp)
+### Day Challenges
 
+- [Day 01: Second Largest.cpp](Day-01/Second%20Largest.cpp)
 
-```
-- Each folder corresponds to a specific day in the 160-day challenge.
-- Inside each folder, you'll find:
-  - Code solutions (in C++ Or Java)
-  - Descriptive comments explaining the approach and logic.
-  
+Each folder corresponds to a specific day's challenge and contains:
+- Code solutions (in **C++** or **Java**)
+- Descriptive comments explaining the approach and logic.
+
 ---
 
 ## 🤝 **Contributing**
@@ -76,6 +74,7 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 We welcome contributions from the community! Whether it's adding new solutions, optimizing existing code, or fixing bugs, your help is valuable.
 
 ### How to Contribute
+
 1. **Fork the Repository**  
 2. **Create a New Branch**  
    ```bash
@@ -95,8 +94,11 @@ We welcome contributions from the community! Whether it's adding new solutions, 
 Provide a clear description of your changes in the pull request to help reviewers understand your updates.
 
 ---
+
 ## 🔍 **Need Help or Have Questions?**  
-- Check the issues section for discussions and bug reports.
+- Check the [Issues section](https://github.com/JahnavikaGopalBvrith/GfG-160---160-Days-of-Problem-Solving/issues) for discussions and bug reports.
+- Feel free to open a Pull Request or ask questions in the community discussions.
+
 ---
 
 **Happy Coding! 🧑‍💻🚀**  
