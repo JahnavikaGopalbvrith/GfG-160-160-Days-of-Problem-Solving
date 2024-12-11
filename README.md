@@ -1,3 +1,8 @@
+Here's an updated version of your **README.md** file with a structured table to showcase the problems, their levels, and links to C++ and Java code.
+
+---
+
+```markdown
 # **GfG-160: 160 Days of Problem Solving**
 
 Welcome to the **GfG-160** repository! This project contains comprehensive solutions to daily challenges from the **"160 Days of Problem-Solving"** program on [GeeksforGeeks](https://www.geeksforgeeks.org/). Our goal is to help you strengthen your problem-solving skills, master data structures and algorithms, and get interview-ready with practical and efficient coding exercises.
@@ -34,7 +39,7 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 1. **Clone the Repository**  
    To get a local copy of the repository, run:  
    ```bash
-   git clone https://github.com/JahnavikaGopalBvrith/GfG-160---160-Days-of-Problem-Solving.git
+   git clone https://github.com/JahnavikaGopalbavrith/GfG-160---160-Days-of-Problem-Solving.git
    ```
 
 2. **Navigate to Your Desired Folder**  
@@ -53,7 +58,7 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 ## 🌐 **Useful Links**
 
 - [GfG 160-160 Days of Problem Solving](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters) – Explore a vast collection of problems, tutorials, and resources.
-- [Repository Link](https://github.com/JahnavikaGopalBvrith/GfG-160---160-Days-of-Problem-Solving) – Clone, contribute, and explore solutions.
+- [Repository Link](https://github.com/JahnavikaGopalbvrith/GfG-160---160-Days-of-Problem-Solving) – Clone, contribute, and explore solutions.
 
 ---
 
@@ -66,6 +71,18 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 Each folder corresponds to a specific day's challenge and contains:
 - Code solutions (in **C++** or **Java**)
 - Descriptive comments explaining the approach and logic.
+
+---
+
+## 🔍 **Problem Overview**
+
+| **Problem Name**       | **Day** | **Level**   | **C++ Code**                                     | **Java Code**                                     |
+|-------------------------|---------|------------|----------------------------------------------------|-----------------------------------------------------|
+| Second Largest         | Day 01   | Easy       | [View C++](Day-01/Second%20Largest.cpp)         | [View Java](Day-01/SecondLargest.java)           |
+| Reverse an Array       | Day 02   | Easy       | [View C++](Day-02/Reverse%20Array.cpp)         | [View Java](Day-02/ReverseArray.java)           |
+| Binary Search Tree      | Day 03   | Medium     | [View C++](Day-03/Binary%20SearchTree.cpp)       | [View Java](Day-03/BinarySearchTree.java)        |
+| Dynamic Programming - 01 | Day 04   | Medium     | [View C++](Day-04/DynamicProgramming.cpp)       | [View Java](Day-04/DynamicProgramming.java)       |
+| Greedy Knapsack        | Day 05   | Hard       | [View C++](Day-05/GreedyKnapsack.cpp)          | [View Java](Day-05/GreedyKnapsack.java)         |
 
 ---
 
@@ -96,7 +113,7 @@ Provide a clear description of your changes in the pull request to help reviewer
 ---
 
 ## 🔍 **Need Help or Have Questions?**  
-- Check the [Issues section](https://github.com/JahnavikaGopalBvrith/GfG-160---160-Days-of-Problem-Solving/issues) for discussions and bug reports.
+- Check the [Issues section](https://github.com/JahnavikaGopalbvrith/GfG-160---160-Days-of-Problem-Solving/issues) for discussions and bug reports.
 - Feel free to open a Pull Request or ask questions in the community discussions.
 
 ---
