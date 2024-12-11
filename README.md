@@ -34,7 +34,7 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 1. **Clone the Repository**  
    To get a local copy of the repository, run:  
    ```bash
-   git clone https://github.com/JahnavikaGopalbavrith/GfG-160---160-Days-of-Problem-Solving.git
+   git clone https://github.com/JahnavikaGopalbvrith/GfG-160---160-Days-of-Problem-Solving.git
    ```
 
 2. **Navigate to Your Desired Folder**  
