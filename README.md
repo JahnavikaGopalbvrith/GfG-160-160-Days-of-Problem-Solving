@@ -61,7 +61,7 @@ This repository covers a wide range of fundamental concepts in **Data Structures
 
 ### Day Challenges
 
-- [Day 01: Second Largest.cpp](Day-01/Second%20Largest.cpp)
+- [Day 01](https://github.com/JahnavikaGopalbvrith/GfG-160---160-Days-of-Problem-Solving/tree/main/Day-01)
 
 Each folder corresponds to a specific day's challenge and contains:
 - Code solutions (in **C++** or **Java**)
