@@ -1,8 +1,3 @@
-Here's an updated version of your **README.md** file with a structured table to showcase the problems, their levels, and links to C++ and Java code.
-
----
-
-```markdown
 # **GfG-160: 160 Days of Problem Solving**
 
 Welcome to the **GfG-160** repository! This project contains comprehensive solutions to daily challenges from the **"160 Days of Problem-Solving"** program on [GeeksforGeeks](https://www.geeksforgeeks.org/). Our goal is to help you strengthen your problem-solving skills, master data structures and algorithms, and get interview-ready with practical and efficient coding exercises.
