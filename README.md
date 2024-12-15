@@ -104,8 +104,7 @@ Provide a clear description of your changes in the pull request to help reviewer
 
 ## 🔍 **Need Help or Have Questions?**  
 - Check the [Issues section](https://github.com/JahnavikaGopalbvrith/GfG-160---160-Days-of-Problem-Solving/issues) for discussions and bug reports.
-- Feel free to open a Pull Request or ask questions in the community discussions.
-
+- Feel free to open a Pull Request or ask questions in the community discussions...
 ---
 
 **Happy Coding! 🧑‍💻🚀**  
